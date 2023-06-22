@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Liton Tripura
+### Hi there i am Liton Tripura
 #### web developer
 ![web developer](https://i.ibb.co/NtTsnCy/Screenshot-2.png)
 
