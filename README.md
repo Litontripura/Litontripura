@@ -1,12 +1,15 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Liton Tripura
+#### web developer
+![web developer](https://i.ibb.co/NtTsnCy/Screenshot-2.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Welcome to my GitHub profile! I'm Liton Tripura, a passionate web developer with a strong focus on frontend development. With over three years of experience in the field, I have honed my skills and gained valuable expertise in creating responsive and visually appealing websites.
 
-- 🔭 I’m currently working on this page. 
+Skills: HTML/CSS/ JavaScript / Tailwind / React.js / Node.js / Express.js / MongoDB 
+
+- 🔭 I’m currently working on Youtube 
+- 🌱 I’m currently learning Next.js / TypeScript / ReduxToolkit 
+- 👯 I’m looking to collaborate on github 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Litontripura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/liton.tripurabp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.linkedin.com/in/liton-tripura-01900a1bb//)  
